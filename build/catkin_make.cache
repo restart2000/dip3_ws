@@ -1,0 +1,2 @@
+image_pkg
+-DCATKIN_DEVEL_PREFIX=/home/zhang/dip3_wp/devel -DCMAKE_INSTALL_PREFIX=/home/zhang/dip3_wp/install -G Unix Makefiles
